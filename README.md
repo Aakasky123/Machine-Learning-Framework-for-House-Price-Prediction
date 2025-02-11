@@ -4,15 +4,23 @@ Overview
 This project implements a machine learning-based house price prediction model that helps in estimating property values based on various features. Using Random Forest Regression and Linear Regression, our model analyzes past real estate data to provide accurate predictions. The goal is to support buyers, sellers, and real estate agents in making data-driven decisions.
 
 Objectives
+
 ✅ Build a robust machine learning model for house price prediction.
+
 ✅ Compare different ML algorithms and select the best-performing model.
+
 ✅ Improve prediction accuracy by applying data preprocessing techniques.
+
 ✅ Provide insights for real estate investors, buyers, and policymakers.
 
 Technologies Used
+
 Programming Language: Python 🐍
+
 Machine Learning Algorithms: Random Forest, Linear Regression
+
 Libraries & Frameworks:
+
 Pandas - Data manipulation 📊
 NumPy - Mathematical computations 🔢
 Matplotlib & Seaborn - Data visualization 📉
@@ -33,6 +41,7 @@ Visualization & Analysis
 Graphs & heatmaps are used to understand feature importance and correlations.
 
 Installation & Setup
+
 1️⃣ Clone the repository
 
 git clone https://github.com/your-username/house-price-prediction.git
