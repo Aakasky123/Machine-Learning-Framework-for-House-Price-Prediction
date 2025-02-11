@@ -44,7 +44,7 @@ Installation & Setup
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/Aakasky123/Machine-Learning-Framework-for-House-Price-Prediction.git
 cd house-price-prediction
 
 2️⃣ Install dependencies
