@@ -22,8 +22,11 @@ Machine Learning Algorithms: Random Forest, Linear Regression
 Libraries & Frameworks:
 
 Pandas - Data manipulation 📊
+
 NumPy - Mathematical computations 🔢
+
 Matplotlib & Seaborn - Data visualization 📉
+
 Scikit-Learn - Machine learning models 🤖
 
 How It Works
